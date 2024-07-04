@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "项链",
-    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav01.png"
+    "icon": "https://github.com/ouyangbetter/dongdong/blob/main/1.jpg"
   },
   {
     "id": 2,
-    "name": "洗浴足疗",
-    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav02.png"
+    "name": "s手链",
+    "icon": "https://github.com/ouyangbetter/dongdong/blob/main/2.jpg"
   },
   {
     "id": 3,
-    "name": "结婚啦",
-    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav03.png"
+    "name": "耳环",
+    "icon": "https://github.com/ouyangbetter/dongdong/blob/main/3.jpg"
   }
-  ]
+]
