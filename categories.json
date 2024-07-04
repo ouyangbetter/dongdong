@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "项链",
+    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav01.png"
+  },
+  {
+    "id": 2,
+    "name": "洗浴足疗",
+    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav02.png"
+  },
+  {
+    "id": 3,
+    "name": "结婚啦",
+    "icon": "https://applet-base-api-t.itheima.net/img/nav/nav03.png"
+  }
+  ]
