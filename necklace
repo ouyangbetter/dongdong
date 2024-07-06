@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "巴洛克爱心项链",
+        "price": "￥199",
+        "images": [
+            "http://p1.meituan.net/deal/2846ed948e95eef4c4d50edaf52a483432023.jpg",
+            "http://p0.meituan.net/deal/89da71931d0bffe8d2e94540845768c178309.jpg",
+            "http://p1.meituan.net/deal/56b99503da568b3ad161847408066950189103.jpg",
+            "http://p0.meituan.net/deal/b8c4c6b9fa62336cbbb81e9a2ffed872370777.jpg",
+            "http://p0.meituan.net/deal/6357af227e6cf37550eb555eb0f7ab88593817.jpg",
+        ]
+    },
+    {
+        "id": 2,
+        "name": "巴洛克梦幻紫色珍珠项链",
+        "price": "￥239",
+        "images": [
+            "http://p0.meituan.net/deal/c23c7c29e74602f9939158c3f3e21fda141581.jpg",
+            "http://p0.meituan.net/deal/310cc0a086edbe627aedc788a570498e358629.jpg",
+            "http://p1.meituan.net/deal/94953656d63c3c824b660c02d9cffde7302130.jpg",
+            "http://p0.meituan.net/deal/33b09e2723bd08763cf65e6eee4d8e1b240543.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "春意盎然项链合集",
+        "price": "￥219",
+        "images": [
+            "http://p0.meituan.net/deal/c23c7c29e74602f9939158c3f3e21fda141581.jpg",
+            "http://p0.meituan.net/deal/310cc0a086edbe627aedc788a570498e358629.jpg",
+            "http://p1.meituan.net/deal/94953656d63c3c824b660c02d9cffde7302130.jpg",
+            "http://p0.meituan.net/deal/33b09e2723bd08763cf65e6eee4d8e1b240543.jpg",
+            "http://p1.meituan.net/deal/08a41eb6ea90a72b63629515867ddc4686471.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "多巴胺锁骨链",
+        "price": "￥189",
+        "images": [
+            "http://p0.meituan.net/deal/c23c7c29e74602f9939158c3f3e21fda141581.jpg",
+            "http://p0.meituan.net/deal/310cc0a086edbe627aedc788a570498e358629.jpg",
+            "http://p1.meituan.net/deal/94953656d63c3c824b660c02d9cffde7302130.jpg",
+            "http://p0.meituan.net/deal/33b09e2723bd08763cf65e6eee4d8e1b240543.jpg",
+            "http://p1.meituan.net/deal/08a41eb6ea90a72b63629515867ddc4686471.jpg"
+        ]
+    }
+]
